@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
