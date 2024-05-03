@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
